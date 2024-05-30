@@ -12,10 +12,6 @@ The primary objective of this thesis is to explore how data augmentation techniq
 2. Develop a data augmentation pipeline applying affine transformations.
 3. Evaluate the model's performance with and without augmented data using metrics like accuracy, precision, recall, F1 score, and loss.
 
-### Key Findings
-
-- The MobileNetV3-Small model trained with augmented data demonstrated significantly improved accuracy (85.94%) compared to the model trained without augmentation (75.26%).
-
 ## Repository Contents
 
 - `Model_with_DA.ipynb`: Jupyter Notebook containing the implementation of the MobileNetV3-Small model with data augmentation techniques applied.
@@ -59,22 +55,6 @@ The primary objective of this thesis is to explore how data augmentation techniq
 2. Open and run the `Model_with_DA.ipynb` notebook to see the implementation with data augmentation.
 3. Open and run the `Model_without_DA.ipynb` notebook to see the implementation without data augmentation.
 
-## Results
-
-### Training and Validation Accuracy
-
-- **With Data Augmentation**: Achieved a validation accuracy of 85.94%.
-- **Without Data Augmentation**: Achieved a validation accuracy of 75.26%.
-
-### Training and Validation F1 Score
-
-- **With Data Augmentation**: Higher F1 score indicating better balance between precision and recall.
-- **Without Data Augmentation**: Lower F1 score compared to the augmented model.
-
-### Training and Validation Loss
-
-- **With Data Augmentation**: Showed improved generalization with lower validation loss.
-- **Without Data Augmentation**: Higher validation loss indicating potential overfitting.
 
 ## License
 
