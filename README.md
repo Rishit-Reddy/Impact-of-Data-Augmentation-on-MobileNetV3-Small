@@ -84,11 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, please contact the authors:
 
+- Sai Guru Rishit Reddy Palle: [rishitpalle@gmail.com](mailto:rishitpalle@gmail.com)
 - Charvi Sri Bodagala: [chbd23@student.bth.se](mailto:chbd23@student.bth.se)
-- Sai Guru Rishit Reddy Palle: [sapl23@student.bth.se](mailto:sapl23@student.bth.se)
 
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
