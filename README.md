@@ -1,6 +1,6 @@
 # Evaluating the Impact of Data Augmentation on MobileNet Performance in Handwritten Signature Identification
 
-*The thesis paper is yet to be published in DiVA portal.*
+*The thesis paper is published in DiVA portal.*
 
 ### Abstract
 
@@ -65,6 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or inquiries, please contact the authors:
 
 - Sai Guru Rishit Reddy Palle: [rishitpalle@gmail.com](mailto:rishitpalle@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rishit-reddy-palle/)
-- Charvi Sri Bodagala: [charvisri.muni@gmail.com](mailto:charvisri.muni@gmail.com)
+- Charvi Sri Bodagala: [charvisri.muni@gmail.com](mailto:charvisri.muni@gmail.com) | [LinkedIn](https://www.linkedin.com/in/charvi-sri-bodagala-2900a9217/)
 
 
